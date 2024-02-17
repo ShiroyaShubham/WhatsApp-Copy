@@ -17,7 +17,7 @@ This repository contains the user interface (UI) code for a WhatsApp Clone, offe
   <img src="Screenshots/ChatScreen.jpeg" width="250" alt="Screenshot 2" style="margin-right: 20px;">
   <img src="Screenshots/StatusScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
   <img src="Screenshots/UploadStatusScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
-  <img src="Screenshots/PrivateChatScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
+  <img src="Screenshots/PrivateChatScreen.jpg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
   <img src="Screenshots/CallScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
   <img src="Screenshots/NewGroupScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
   <img src="Screenshots/SelectContactScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
