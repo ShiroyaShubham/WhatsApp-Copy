@@ -15,7 +15,7 @@ This repository contains the user interface (UI) code for a WhatsApp Clone, offe
 <div align="center">
   <img src="Screenshots/SplashScreen.jpeg" width="250" alt="Screenshot 1" style="margin-right: 20px;">
   <img src="Screenshots/ChatScreen.jpeg" width="250" alt="Screenshot 2" style="margin-right: 20px;">
-  <img src="Screenshots/StatusScreen.jpeg.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
+  <img src="Screenshots/StatusScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
   <img src="Screenshots/UploadStatusScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
   <img src="Screenshots/PrivateChatScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
   <img src="Screenshots/CallScreen.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
@@ -35,4 +35,4 @@ This repository contains the user interface (UI) code for a WhatsApp Clone, offe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ShiroyaShubham/WhatsApp-Copy.git
+   https://github.com/ShiroyaShubham/WhatsApp-Copy.git
